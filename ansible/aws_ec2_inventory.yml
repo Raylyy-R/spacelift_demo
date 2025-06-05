@@ -1,6 +1,6 @@
 plugin: amazon.aws.aws_ec2
 regions:
-  - us-west-2
+  - us-east-1
 filters:
   tag:Env:
     - demo-instance
